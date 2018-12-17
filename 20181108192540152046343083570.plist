@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://www-31.ibm.com/e-business/esolution/mapps/release/ios/MTSS_MobileAPP_4SSR_CN.ipa</string>
+<string>https://ciobuild.w3-969.ibm.com/job/hvp_cn_ssr/lastSuccessfulBuild/artifact/IBM_HVP_SSR.1.0.0.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
